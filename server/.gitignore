@@ -1,0 +1,4 @@
+/module
+
+# ignore .env
+.env
